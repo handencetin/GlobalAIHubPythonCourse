@@ -4,7 +4,7 @@
 **Course Date:** DD.MM.YYYY  
 **Name:** Hande Nur  
 **Surname:** Cetin
-**Email:** handenur167@gmail.com  
+**Email:**  handenur167@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
