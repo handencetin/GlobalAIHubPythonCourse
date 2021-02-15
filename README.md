@@ -3,7 +3,7 @@
 
 **Course Date:** 15.02.2021
 **Name:** Hande Nur  
-**Surname:** Cetin
+**Surname:** Cetin      
 **Email:**  handenur167@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
